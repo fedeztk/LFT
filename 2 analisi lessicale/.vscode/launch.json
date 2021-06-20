@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - prova",
+            "request": "launch",
+            "mainClass": "prova",
+            "projectName": "analisi lessicale_a78c0417"
+        }
+    ]
+}
